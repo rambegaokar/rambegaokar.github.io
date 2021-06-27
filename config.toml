@@ -1,4 +1,4 @@
 baseURL = "https://rambegaokar.github.io/"
 languageCode = "en-us"
-title = "Rajiv's new hugo site"
+title = "Rajiv's new site"
 theme = "ananke"
